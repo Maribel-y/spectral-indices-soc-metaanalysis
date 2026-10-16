@@ -1,0 +1,6 @@
+Base de datos: Scopus
+Fecha de la búsqueda: 8 de octubre de 2026
+Campo: TITLE-ABS-KEY; tipo de documento: artículo; idioma: inglés
+Registros exportados: 489; duplicados: 0
+
+TITLE-ABS-KEY(("soil organic carbon" OR "soil organic matter" OR "soil carbon" OR SOC OR SOM OR "carbon stock*") AND ("spectral index*" OR "vegetation index*" OR "remote sensing index*" OR NDVI OR EVI OR SAVI OR MSAVI OR OSAVI OR NDMI OR LSWI OR "tasseled cap" OR "bare soil index" OR BSI OR "brightness index") AND ("machine learning" OR "random forest" OR XGBoost OR "gradient boosting" OR "support vector" OR cubist OR "neural network" OR "deep learning" OR "digital soil mapping") AND ("remote sensing" OR satellite OR Sentinel* OR Landsat* OR MODIS OR UAV OR drone OR multispectral)) AND (LIMIT-TO(DOCTYPE,"ar")) AND (LIMIT-TO(LANGUAGE,"English"))
